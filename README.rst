@@ -20,8 +20,9 @@ This version of pygrametl is compatible with Python 3.0+, a separate version for
 
 Installation
 ----------------
-
-	clone this git repository and run
-.. code-block
-	python3 setup.py install
+        >> git clone https://github.com/haleemur/pygrametl-python3.git
+                or
+        >> git clone git@github.com:haleemur/pygrametl-python3.git
+	>> python3 setup.py install
+*you might need root priviledges for the last command*
 
